@@ -1,7 +1,7 @@
 ## System Administrator and Toys collector
 
 ```
-WORK EXPERIENCE
+<b>WORK EXPERIENCE</b>
 Systems Administrator (Windows)
 BDO Unibank, Inc., November/2020 - Present 
 •	I am engaged in Projects such as D365 Enterprise Onboarding and GenAI Co-Pilot, wherein my role is to assist the Project team in creating Azure microservices such as Service Bus, Key Vault, Azure Functions, Web jobs, APIs in API Management Services, Function app file deployment via Kudu Zip Push Deploy, Databricks, and Data Factory.
