@@ -46,6 +46,4 @@ Software Ventures Inc. Global Services, June/2001 – October/2002
 Solaris Instructor
 Sun Microsystems Philippines, October/2000 – June/2001
 •	This role is part of Sun Microsystems Philippines’ Training Department, which is responsible for conducting training for local clients availing Sun Solaris servers and clients availing Sun training programs. Training includes Basic and Advanced system administration, OS installation and configuration, security implementation, System backup and restore. 
-
-
 ```
