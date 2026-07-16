@@ -15,7 +15,7 @@ BDO Unibank, Inc., November/2020 - Present
 ```
 **Systems Windows Administrator/Office 365 Administrator**
 ```
-The Dairy Farm Company, September/2018 – October//2020
+The Dairy Farm Company, September/2018 – October/2020
 •	Performs monthly server security patching using SolarWinds Patch Management
 •	Monitors Windows Servers' utilization via the SolarWinds monitoring tool.
 •	Performs Incident Management and Change Management
